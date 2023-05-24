@@ -1,0 +1,8 @@
+node_modules
+public
+*-lock.json
+src
+*.html
+.*
+*config*.json
+*config*.ts
