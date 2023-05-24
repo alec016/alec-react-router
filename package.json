@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
+  "repository": "https://github.com/alec016/alec-react-router",
   "exports": {
     ".": {
       "import": "./lib/index.js",
